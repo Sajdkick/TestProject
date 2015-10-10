@@ -7,4 +7,8 @@ void main()
 	cout << "Hello World" << endl;
 	cin >> a;
 
+	for (int x = 0; x < a; x++)
+		cout << x << endl;
+
+
 }
