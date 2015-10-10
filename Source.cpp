@@ -10,7 +10,6 @@ void main()
 	for (int x = 0; x < a; x++)
 		cout << x << endl;
 
-	cout << "Done!" << endl;
 
 
 }
