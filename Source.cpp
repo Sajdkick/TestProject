@@ -11,5 +11,6 @@ void main()
 		cout << x << endl;
 
 	cout << "Done!" << endl;
+	cout << "Bye!" << endl;
 
 }
